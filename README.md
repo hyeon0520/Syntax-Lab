@@ -14,7 +14,7 @@ Python 문법
 
 ## Structure
 ```plaintext
-Syntax-lab/
+Syntax-Lab/
 ├── Algorithm-Problems
 │   ├── Baekjoon # e.g. Baekjoon's Task
 │   ├── Programmers
