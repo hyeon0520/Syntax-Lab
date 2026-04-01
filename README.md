@@ -15,10 +15,10 @@ Python 문법
 ## Structure
 ```plaintext
 Syntax-Lab/
-├── Baekjoon # e.g. Baekjoon's Task
+├── Baekjoon/ # e.g. Baekjoon's Task
 │   ├── Bronze
 ├── Programmers
-├── Programming-Languages
+├── Programming-Languages/
 │   ├── C++
 │   ├── JAVA
 │   ├── Python
